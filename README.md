@@ -6,6 +6,7 @@ An image-based dataset containing MRI scans of human brain is provided (3000 512
 
 ## Brief Description of Files
 Task A: Binary Classification
+
 Task B: Multi-class Classification
 ## Run the Code
 
