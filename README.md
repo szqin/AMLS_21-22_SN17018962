@@ -5,7 +5,8 @@ This mini machine learning project contains two main tasks. The first task is ai
 An image-based dataset containing MRI scans of human brain is provided (3000 512x512 pixel gray-scale MRI images organized in 4 classes). A separated test set with 200 images is provided as well, the test set is to check whether machine learning models are overfitted.
 
 ## Brief Description of Files
-
+Task A: Binary Classification
+Task B: Multi-class Classification
 ## Run the Code
 
 ## Packages Used
