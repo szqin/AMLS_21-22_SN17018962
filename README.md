@@ -11,5 +11,5 @@ Task B: Multi-class Classification
 ## Run the Code
 Please download the dataset zip file (3000 MRI images and label csv file): [Download Link](http://shorturl.at/hquDP) (file size is too large to upload).
 
-Please download the testing dataset zip file (200 MRI images and label csv file) in this repository.
+Please download the testing dataset zip file (200 MRI images and label csv file) in this repository: *AMLS-2021_test.zip*
 ## Packages Used
