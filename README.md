@@ -11,7 +11,7 @@ An optional dataset with 200 MRI images and a corresponding label csv file.
 
 The main.ipynb file contains all code to solve Task 1 and Task 2.
 
-Other files generated when running the code.
+Some .pkl files generated when running the code.
 
 ## Run the Code
 Please download the dataset zip file (3000 MRI images and label csv file): [Download Link](http://shorturl.at/hquDP) (file size is too large to upload).
